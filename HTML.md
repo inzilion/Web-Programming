@@ -5,23 +5,32 @@
 - HTML은 element의 집합이다.
 
 
-## [1. HTML 기초](https://www.w3schools.com/html/html_basic.asp)
+## 1. HTML 기초
 
 - 모든 HTML 문서는 문서 유형 선언으로 시작합니다.   
 ``` <!DOCTYPE html>``` : HTML5(HTML 버전5) 문서임을 의미함. 
 - HTML문서는 ```<html>```로 시작해서 ```</html>``` 로 끝난다.
 - 실제 화면에 보이는 내용은 ```<body>```와 ```</body>``` 사이에 있습니다.
 - ```<태그명> 내용은 여기에... </태그명>``` 형태로 사용합니다.
-- HTML 태그는 중첩되어 사용할 수 있습니다.  
+- HTML 태그는 중첩되어 사용할 수 있습니다. 
+- 기타 자세한 내용은 [w3schools.com](https://www.w3schools.com/html)을 참고.
 ```
-<!DOCTYPE html>  // 페이지 상단에 한 번만 표기
+<!-- HTML 문서의 예 -->
+<!DOCTYPE html>  
 <html>
+  <head>
+    <title>나의 첫 홈페이지</title>
+  </head>
   <body>
     <h1>첫 번재 제목</h1>
     <p>첫 번째 단락.</p>
   </body>
 </html>
 ```
-## [2. HTML 태그의 종류](https://www.w3schools.com/tags/default.asp)   
+## 2. HTML 태그의 종류   
 - 겁나 많음.
 - 쓰다 보면 자동으로 외워짐.
+- [**w3schools.com**](https://www.w3schools.com/tags/default.asp)에 왠만한건 다 있음(영어 실력이 부족하면 오른쪽 상단에 번역 아이콘에서 한국어 선택)
+
+## 3. 중요 태그들
+
