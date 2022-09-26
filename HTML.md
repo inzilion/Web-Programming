@@ -6,4 +6,23 @@
 - HTML의 element는 브라우저에게 콘텐츠를 어떻게 보여줄 건인지를 말해준다.
 
 
-[HTML기본](https://www.w3schools.com/html/html_basic.asp)
+## [1. HTML 기초](https://www.w3schools.com/html/html_basic.asp)
+
+- 모든 HTML 문서는 문서 유형 선언으로 시작합니다.   
+``` <!DOCTYPE html>``` : HTML5(HTML 버전5) 문서임을 의미함. 
+- HTML문서는 ```<html>```로 시작해서 ```</html>``` 로 끝난다.
+- 실제 화면에 보이는 내용은 ```<body>```와 ```</body>``` 사이에 있습니다.
+- ```<태그명> 내용은 여기에... </태그명>``` 형태로 사용합니다.
+- HTML 태그는 중첩되어 사용할 수 있습니다.  
+```
+<!DOCTYPE html>  // 페이지 상단에 한 번만 표기
+<html>
+  <body>
+    <h1>첫 번재 제목</h1>
+    <p>첫 번째 단락.</p>
+  </body>
+</html>
+```
+## [2. HTML 태그의 종류](https://www.w3schools.com/tags/default.asp)   
+- 겁나 많음.
+- 쓰다 보면 자동으로 외워짐.
