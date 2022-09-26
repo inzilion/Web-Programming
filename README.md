@@ -3,15 +3,20 @@
 
 # Web-Programming
 - Web programming은 대략 아래와 같은 계층 형태로 분류할 수 있습니다.
-  * Front-end
+  * Front-end 개발
     + HTML
     + CSS
     + JS
-  * Back-end
+  * Back-end 개발
     + Server 
     + Database 
 ***
-## Front-end
+## Front-end   
+프론트엔드는 화면에 보이는 부분(UI - User Interface)을 개발하는 정도로 이해하면 됨.
+***
+## Back-end
+백엔드는 화면에 보이지 않는 부분(API - Application Programming Interface)을 개발하는 정도로 이해하면 됨.   
+프론트엔드에 비해 막연하다고 느껴질 수 있음. 그래도 괜츈...
 
 ### 1. HTML
 - HTML은 Hyper Text Markup Language의 약자.
