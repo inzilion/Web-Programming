@@ -20,20 +20,6 @@
 - HTML은 element의 집합니다.
 - HTML의 element는 브라우저에게 콘텐츠를 어떻게 보여줄 건인지를 말해준다.
 
-<pre>
-<code>
-  <!DOCTYPE html>
-  <html>
-    <head>
-      <title>Page Title</title>
-    </head>
-    <body>
-      <h1>My First Heading</h1>
-      <p>My first paragraph.</p>
-    </body>
-    </html>
-</code>
-</pre>
 ### CSS
 ### JS
 ## Back-end
