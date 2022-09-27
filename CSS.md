@@ -29,3 +29,23 @@ div {
   </head>
   ```
   
+- 선택자(Selector)
+  * 태그 선택자
+  ```css
+   div {
+         background : blue;
+   }
+  ```
+  * class 선택자
+  ```css
+   .item {
+         background : blue;
+   }
+  ```
+  * id 선택자
+  ```css
+   #header {
+         background : blue;
+   }
+  ```
+  
