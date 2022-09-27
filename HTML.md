@@ -15,11 +15,12 @@
 - 실제 화면에 보이는 내용은 ```<body>```와 ```</body>``` 사이에 입력한다.
 - HTML 태그는 중첩되어 사용할 수 있다. 
 - 기타 자세한 내용은 [w3schools.com](https://www.w3schools.com/html)을 참고.
-```
+```html
 <!-- HTML 문서의 예 -->
 <!DOCTYPE html>  
-<html>
+<html lang="ko">
   <head>
+    <meta charset="UTF-8">
     <title>나의 첫 홈페이지</title>
   </head>
   <body>
