@@ -51,4 +51,8 @@ div {
   
   ## 3. Flexbox
   ![image](https://user-images.githubusercontent.com/11955029/192662520-30fd48c3-ffff-4f6c-852e-72b817ba837b.png)
+  
+  ## 4. Grid
+  ![image](https://user-images.githubusercontent.com/11955029/192670153-409ed3ad-d5a6-4842-b7e4-3ac4081cacfd.png)
+
 
