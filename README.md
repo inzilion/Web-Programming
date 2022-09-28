@@ -14,16 +14,16 @@
 - 개발환경 
   * 에디터 : Visual Studio Code [(https://code.visualstudio.com/download)](https://code.visualstudio.com/download)
   * 유용한 확장 패키지
-    + Korean Language Pack 
-    + HTML CSS Support
-    + HTML to CSS autocompletion
-    + Auto Rename Tag
-    + Indent-rainbow
-    + CSS Peek
-    + Prettier - Code formatter
-    + Material theme
-    + Material icon theme
-    + Live Server
+    + Live Server : 작성중인 HTML, CSS 파일의 결과를 실시간으로 보여줌
+    + Korean Language Pack : 메뉴가 한글로 나옴 +_+
+    + HTML CSS Support : HTML 작성시 CSS에서 정의한 셀렉터 자동 완성
+    + HTML to CSS autocompletion : CSS 작성시 HTML에서 정의한 셀렉터 자동 완성
+    + CSS Peek : HTML 작성시 해당 CSS 셀렉터로 자동 이동
+    + Auto Rename Tag : 여는 태그를 수정하면 닫는 태그도 자동 수정
+    + Indent-rainbow : 들여쓰기가 다른 색으로 구분되어 코드의 가독성 향상
+    + Prettier - Code formatter : 코딩에 필요한 여러가지 옵션 설정(```Ctrl + ,```)
+    + Material theme : VScode의 환경색을 변경
+    + Material icon theme : VScode에서 사용하는 아이콘 변경
     
 ***
 
