@@ -2,8 +2,8 @@
 ## 1. CSS의 특징
 - Cascading Sytle Sheets의 약자.
 - HTML은 구조, CSS는 구조를 시각적으로 더 세련되게 표현 (HTML 없이 CSS만 존재할 순 없다).   
-> ![image](https://user-images.githubusercontent.com/11955029/192415391-928a93bc-8c9a-4da1-9c1e-1ac13d667f05.png)    
->> 이미지 출처 : uwaterloo.ca
+![image](https://user-images.githubusercontent.com/11955029/192415391-928a93bc-8c9a-4da1-9c1e-1ac13d667f05.png)    
+> 이미지 출처 : uwaterloo.ca
 
 
 ## 2. CSS 기초
