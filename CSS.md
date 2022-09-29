@@ -1,8 +1,13 @@
 # CSS
+***
+## 목차
+[1. CSS의 특징](1.-#css의-특징)      
+[2. CSS 기초](2.-#css-기초)
+
 ## 1. CSS의 특징
 - Cascading Sytle Sheets의 약자.
 - HTML은 구조, CSS는 구조를 시각적으로 더 세련되게 표현 (HTML 없이 CSS만 존재할 순 없다).   
-![image](https://user-images.githubusercontent.com/11955029/192415391-928a93bc-8c9a-4da1-9c1e-1ac13d667f05.png)    
+<img src="https://user-images.githubusercontent.com/11955029/192415391-928a93bc-8c9a-4da1-9c1e-1ac13d667f05.png" width="350" height="300"><br>    
 > 이미지 출처 : uwaterloo.ca
 
 
