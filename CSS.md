@@ -1,8 +1,8 @@
 # CSS
 ***
 ## 목차
-[1. CSS의 특징](1.-#css의-특징)      
-[2. CSS 기초](2.-#css-기초)
+[1. CSS의 특징](#1-css의-특징)      
+[2. CSS 기초](#2-css-기초)
 
 ## 1. CSS의 특징
 - Cascading Sytle Sheets의 약자.
