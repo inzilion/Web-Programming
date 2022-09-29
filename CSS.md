@@ -49,12 +49,15 @@ div {
    }
   ```
   
-  ## 3. Flexbox
-  ![image](https://user-images.githubusercontent.com/11955029/192662520-30fd48c3-ffff-4f6c-852e-72b817ba837b.png)
-  > 이미지 출처 : [https://css-tricks.com/](https://css-tricks.com/)
+## 3. Flexbox
+![image](https://user-images.githubusercontent.com/11955029/192662520-30fd48c3-ffff-4f6c-852e-72b817ba837b.png)
+> 이미지 출처 : [https://css-tricks.com/](https://css-tricks.com/)
   
-  ## 4. Grid
-  ![image](https://user-images.githubusercontent.com/11955029/192670153-409ed3ad-d5a6-4842-b7e4-3ac4081cacfd.png)
-  > 이미지 출처 : [https://css-tricks.com/](https://css-tricks.com/)
+## 4. Grid
+![image](https://user-images.githubusercontent.com/11955029/192670153-409ed3ad-d5a6-4842-b7e4-3ac4081cacfd.png)
+> 이미지 출처 : [https://css-tricks.com/](https://css-tricks.com/)
 
+## 5. 연습문제
+![image](https://user-images.githubusercontent.com/11955029/192931122-e62b1c5b-3b5f-4ff7-b57f-6f5658b7f18a.png)
 
+ 
