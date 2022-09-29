@@ -2,7 +2,10 @@
 ***
 ## 목차
 [1. CSS의 특징](#1-css의-특징)      
-[2. CSS 기초](#2-css-기초)
+[2. CSS 기초](#2-css-기초)    
+[3. Flexbox](#3-flexbox)    
+[4. Grid](#4-grid)    
+[5. 연습문제](#5-연습문제)    
 
 ## 1. CSS의 특징
 - Cascading Sytle Sheets의 약자.
@@ -15,13 +18,13 @@
 - 기본문법
  ```css
 선택자 {
-          속성 : 값;
+   속성 : 값;
 }
 ```
   * 예시
 ```css
 div {   
-      color : blue;   
+   color : blue;   
 }
 ```
 - 작성 위치
@@ -38,19 +41,19 @@ div {
   * 태그 선택자
   ```css
    div {
-         background : blue;
+      background : blue;
    }
   ```
   * class 선택자
   ```css
    .item {
-         background : blue;
+      background : blue;
    }
   ```
   * id 선택자
   ```css
    #header {
-         background : blue;
+      background : blue;
    }
   ```
   
