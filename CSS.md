@@ -82,7 +82,7 @@ div {
   
 ## 4. Grid
 - Flexbox와 같이 컨테이너가 아이템을 포함하는 구조
-- Grid의 속성
+- Grid의 주요 속성
   * 컨테이너 속성
     + grid-template-columns
     + grid-template-rows
