@@ -58,10 +58,43 @@ div {
   ```
   
 ## 3. Flexbox
+- Flexbox의 구조
+  * 컨테이너가 아이템을 포함하는 구조
+  * 주축과 보조축에 대한 이해가 필요함
+- Flexbox의 속성
+  * 컨테이너 속성
+    + display 
+    + flex-direction  
+    + flex-wrap 
+    + flex-flow 
+    + justify-content  
+    + align-items  
+    + align-content 
+  * 아이템 속성 
+    + order 
+    + flex-grow 
+    + flex-shrink 
+    + flex 
+    + align-self 
+
 ![image](https://user-images.githubusercontent.com/11955029/192662520-30fd48c3-ffff-4f6c-852e-72b817ba837b.png)
 > 이미지 출처 : [https://css-tricks.com/](https://css-tricks.com/)
   
 ## 4. Grid
+- Flexbox와 같이 컨테이너가 아이템을 포함하는 구조
+- Grid의 속성
+  * 컨테이너 속성
+    + grid-template-columns
+    + grid-template-rows
+    + grid-template-areas
+    + grid-gap
+  * 아이템 속성
+    + grid-column-start
+    + grid-column-end
+    + grid-row-start
+    + grid-row-end
+    + grid-area
+
 ![image](https://user-images.githubusercontent.com/11955029/192670153-409ed3ad-d5a6-4842-b7e4-3ac4081cacfd.png)
 > 이미지 출처 : [https://css-tricks.com/](https://css-tricks.com/)
 
