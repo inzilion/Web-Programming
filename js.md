@@ -10,11 +10,11 @@
 
 ## 목차
 
-[0. JS 실행방법](0-js-실행방법)  
-[1. strict 사용](1-strict-사용)  
-[2. Variable](2-variable)  
-[3. Constants](3-constants)  
-[4. Variable type](4-variable-type)
+[0. JS 실행방법](#0-js-실행방법)  
+[1. strict 사용](#1-strict-사용)  
+[2. Variable](#2-variable)  
+[3. Constants](#3-constants)  
+[4. Variable types](#4-variable-types)
 
 ---
 
@@ -179,8 +179,8 @@ console.log(`value: ${symbol1.description}, type: ${typeof symbol1}`);
 7. object, 
 real-life object, data structure
 ```js
-const ellie = { name: 'ellie', age: 20 };
-ellie.age = 21;
+const inzilion = { name: 'inzilion', age: 3 };
+inzilion.age = 4;
 ```
 
 // 5. Dynamic typing: dynamically typed language
