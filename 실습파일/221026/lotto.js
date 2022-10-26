@@ -1,9 +1,7 @@
 const $button = document.querySelector('button');
 const $lotto = document.querySelector('#lotto');
 
-
 function init_lotto(){
-  
   while($lotto.firstChild){
     $lotto.removeChild($lotto.firstChild);
   }
