@@ -1,0 +1,26 @@
+.container { 
+  width: auto;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+}
+
+.textBox {
+  height: 200px;
+  background-color: darkcyan;
+  font-size: 20px;
+  color: #eee ;
+  text-align: center;
+  line-height: 50px;
+}
+
+.typingBox {
+  height: 50px;
+  font-size: 20px;
+  background-color: yellowgreen;
+  border: 0px;
+}
+
+button {
+  display: inline-block;
+}
