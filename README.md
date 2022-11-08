@@ -31,7 +31,7 @@
 프론트엔드는 화면에 보이는 부분(UI - User Interface)을 개발하는 정도로 이해하면 됨.
 ### 1. [HTML](HTML.md)
 ### 2. [CSS](CSS.md)
-### 3. [JS](JS.md)
+### 3. JavaScript[(https://ko.javascript.info)]
 
 ***
 ## Back-end (2023년에 배움)
