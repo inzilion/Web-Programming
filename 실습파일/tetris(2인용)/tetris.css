@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+}
+
+.screen {
+  display: flex;
+  width: 100%;
+  height: 540px;
+}
+
+.ad {
+  width: 150px;
+  height: 100%;
+  background-color: rebeccapurple;
+}
+
+.play_ground {
+  width: 296px;
+  height: 100%;
+}
+
+.cube_container {
+  display: flex;
+}
+
+.cube {
+  width: 25px;
+  height: 25px;
+  border : 1px solid grey;
+  background-color: ghostwhite;
+}
+
+.L {
+  background-color: red;
+}
+
+.O {
+  background-color: pink;
+}
+
+.I {
+  background-color: yellowgreen;
+}
+.death {
+  background-color: rgb(177, 172, 172);
+}
+
+.msgWindow {
+  display: none;
+  position: absolute;
+  width: 250px;
+  height: 200px;
+  background-color: azure;
+  border : 5px solid;
+  text-align: center;
+  font-size: 1rem;
+  line-height: 6;
+}
+
+.msgW1{
+  top : 100px;
+  left : 167px;
+}
+
+.msgW2{
+  top : 100px;
+  left : 613px;
+}
