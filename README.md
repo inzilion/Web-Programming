@@ -34,7 +34,7 @@
 ### 3. JavaScript[(https://ko.javascript.info)]
 
 ***
-## Back-end (2023년에 배움)
-백엔드는 화면에 보이지 않는 부분(API - Application Programming Interface)을 개발하는 정도로 이해하면 됨.   
-프론트엔드에 비해 막연하다고 느껴질 수 있음. 그래도 괜츈...
-
+## Back-end 
+### 1. [node](node.md)
+### 2. [npm](npm.md)
+### 3. [DBMS](DBMS.md)
