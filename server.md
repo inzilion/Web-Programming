@@ -12,7 +12,7 @@
 
 - Web Server Programming은 언어보다 전체적인 개념과 흐름을 이해하는 것이 더 중요함.
 
-- 우리나라는 JAVA(Spring)이 Web 서버 시장을 점령하고 있음.
+- 우리나라는 JAVA(Spring)이 서버 시장을 점령하고 있음.
 
 - 그런데 우리가 [node.js](node.md)를 하는 이유
   - 점점 많이 사용되는 추세
