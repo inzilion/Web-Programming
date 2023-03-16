@@ -8,7 +8,7 @@
   - Java(Spring)
   - Python(Django, flask 등)
   - Ruby(Rails)
-  - PHP(Laravle 등)
+  - PHP(Laravel 등)
 
 - Web Server Programming은 언어보다 전체적인 개념과 흐름을 이해하는 것이 더 중요함.
 
